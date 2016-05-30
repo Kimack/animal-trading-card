@@ -6,7 +6,7 @@ This is a Udacity's front-end nanodegree project in which we started with a [Pol
 
 # Preview
 
-You can preview the project here: [michelmoreau.ca/rhino](http://michelmoreau.ca/rhino/)
+You can preview the project here: [michelmoreau.ca/rhino](http://michelml.github.io/frontend-nanodegree-animal-trading-card/)
 
 Note that the image is not optimized intentionally as it was not the purpose of the project. The project was mainly CSS focused.
   
