@@ -1,4 +1,4 @@
-frontend-nanodegree-Animal-Trading-Cards-Overview
+Animal-Trading-Card
 ===============================
 
 # Description
